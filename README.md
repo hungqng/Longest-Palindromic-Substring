@@ -1,4 +1,4 @@
-# Longest-Palindromic-Substring-PY
+# Longest-Palindromic-Substring
 - Leetcode practice #5
 
 ## Built With
